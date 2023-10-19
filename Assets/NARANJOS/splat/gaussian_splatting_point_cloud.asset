@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: gaussian_splatting_point_cloud
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231006
+  m_SplatCount: 1091890
+  m_BoundsMin: {x: -13.046548, y: 0.425084, z: -9.907299}
+  m_BoundsMax: {x: 10.238883, y: 7.858619, z: 10.401778}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: 0afc94423f2a01404f218678dd191668
+  m_PosFormat: 1
+  m_ScaleFormat: 1
+  m_SHFormat: 2
+  m_ColorFormat: 48
+  m_ColorWidth: 2048
+  m_ColorHeight: 544
+  m_PosData: {fileID: 4900000, guid: 236f50c28cfc9a4479f62f1925510c99, type: 3}
+  m_ColorData: {fileID: 4900000, guid: b55da58347a182842b30b0bad3d9af3d, type: 3}
+  m_OtherData: {fileID: 4900000, guid: 9928157878d86ea40a7b1b8d58074c98, type: 3}
+  m_SHData: {fileID: 4900000, guid: cd9b32d131f3d7b459160100f4207971, type: 3}
+  m_ChunkData: {fileID: 4900000, guid: c195e2970aa43274eab5ab49c576ea82, type: 3}
+  m_Cameras: []

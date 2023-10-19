@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: naranjos limpio
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231006
+  m_SplatCount: 457975
+  m_BoundsMin: {x: -3.4288387, y: 2.2241285, z: -3.421735}
+  m_BoundsMax: {x: 2.4044313, y: 4.387465, z: 3.9201272}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: acc3338a4d843c53f93c9dc4fafa4fcc
+  m_PosFormat: 1
+  m_ScaleFormat: 1
+  m_SHFormat: 2
+  m_ColorFormat: 48
+  m_ColorWidth: 2048
+  m_ColorHeight: 224
+  m_PosData: {fileID: 4900000, guid: 918ca2052bd4ed54c805efe3077b7c13, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 1c87e007d2fc2914ba4c5b08a00600ef, type: 3}
+  m_OtherData: {fileID: 4900000, guid: 70439a4a75122a04eb8622feb80b277f, type: 3}
+  m_SHData: {fileID: 4900000, guid: 811aa63379358e24f8beb9b0b92aad3d, type: 3}
+  m_ChunkData: {fileID: 4900000, guid: 708d3e778123e9c44a4ef65a23d2483b, type: 3}
+  m_Cameras: []
